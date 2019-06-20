@@ -1,1 +1,1 @@
-# Contains python code to read temperature and humidity sensor
+Contains python code to read temperature and humidity sensor
